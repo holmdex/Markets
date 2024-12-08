@@ -98,7 +98,7 @@ Contributions to improve the report are welcome. Please:
 
 ## License
 
-This project is available under the MIT License. See the LICENSE file for details.
+This project is not licensed through github.
 
 ## Contact
 
